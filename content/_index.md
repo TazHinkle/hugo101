@@ -9,3 +9,10 @@ draft: false
 There were once some goats and Admiral saw that it was good.
 
 And here was the next sentence.
+
+[comment]: <> (![image kitty cat]&#40;./cat.jpeg&#41;)
+
+Some more words for good measure.
+
+{{< figure src="./cat.jpeg" width="33%" >}}
+
