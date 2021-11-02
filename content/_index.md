@@ -10,9 +10,9 @@ There were once some goats and Admiral saw that it was good.
 
 And here was the next sentence.
 
-[comment]: <> (![image kitty cat]&#40;./cat.jpeg&#41;)
+![image kitty cat](./images/cat.jpg)
 
 Some more words for good measure.
 
-{{< figure src="./cat.jpeg" width="33%" >}}
+{{< figure src="./images/cat.jpg" width="33%" >}}
 
