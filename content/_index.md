@@ -8,11 +8,11 @@ draft: false
 
 There were once some goats and Admiral saw that it was good.
 
-And here was the next sentence.
+Here is a picture added with a standard image tag.
 
 ![image kitty cat](./images/cat.jpg)
 
-Some more words for good measure.
+Here is an image using a shortcode to change the size.
 
 {{< figure src="./images/cat.jpg" width="33%" >}}
 
